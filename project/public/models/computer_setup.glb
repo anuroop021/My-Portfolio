@@ -1,0 +1,7 @@
+# Note: You'll need to create or obtain a 3D model of a computer setup
+# Save it as 'computer_setup.glb' in the public/models directory
+# The model should include:
+# - Modern monitor
+# - RGB keyboard
+# - Gaming mouse
+# - Desktop case with RGB effects
