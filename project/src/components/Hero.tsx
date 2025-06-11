@@ -50,8 +50,8 @@ function Hero() {
               Get in touch
             </a>
             <a
-              href="/Anuroop_Reddy_Resume.pdf"
-              download="Anuroop_Reddy_Resume.pdf"
+              href="/Anuroop_Resume.pdf"
+              download="Anuroop_Resume.pdf"
               className="border border-[#64ffda] text-[#64ffda] px-6 py-2 rounded-lg font-medium
                      hover:bg-[#64ffda]/10 transition-colors text-sm"
             >
